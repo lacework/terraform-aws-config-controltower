@@ -12,7 +12,7 @@ A Terraform Module to __________________________ with Lacework.
 | Name | Version |
 |------|---------|
 | <a name="requirement_terraform"></a> [terraform](#requirement\_terraform) | >= 0.12.31 |
-| <a name="requirement_lacework"></a> [lacework](#requirement\_lacework) | ~> 0.3 |
+| <a name="requirement_lacework"></a> [lacework](#requirement\_lacework) | ~> 2.0 |
 
 ## Providers
 
